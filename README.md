@@ -1,3 +1,8 @@
+Create an EC2 instance
+Access the Instance and install kafka and jdk
+
+Connect AWS to terminal
+
 Start Zoo-keeper
 ---------------------------------------------------------
 bin/zookeeper-server-start.sh config/zookeeper.properties
